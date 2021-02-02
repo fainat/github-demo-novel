@@ -17,7 +17,7 @@ class student extends Teacher {
   }
 };
 
-/* Thanks for all, my dear techer - "Colt Steele" */
+/* Thanks for all, my dear teacher - "Colt Steele" */
 const greeting = new student('Abdullah', 'Colt');
 /* respect your teacher */
 greeting.respect();
